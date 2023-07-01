@@ -1,15 +1,17 @@
-- group: Test
-  description:  test1# 分组描述
+- group: 好盆友
   items:
-    - title: 1# 名称
-      avatar: https://www.baidu.com/favicon.ico# 头像
-      url: https://www.baidu.com# 链接
-      screenshot: # 截图
-      keywords: # 关键词
-      description: # 描述
-    - title: # 名称
-      avatar: # 头像
-      url: # 链接
-      screenshot: # 截图
-      keywords: # 关键词
-      description: # 描述
+    - title: # 名称（必要）
+      avatar: # 头像（必要）
+      url: # 链接（必要）
+      screenshot: # 截图（选填）
+      keywords: # 关键词（选填）
+      description: # 描述（选填）
+- group: 2023
+  description: 与2023年添加。
+  items:
+    - title: # 名称（必要）
+      avatar: # 头像（必要）
+      url: # 链接（必要）
+      screenshot: # 截图（选填）
+      keywords: # 关键词（选填）
+      description: # 描述（选填）
