@@ -48,27 +48,27 @@ cover:
   features:
     - name: 博客
       icon: #
-      img: https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4f0.svg
+      img: https://cdn.imoscarz.eu.org/media/twemoji/1f4f0.svg
       url: /
     - name: 分类
       icon: #
-      img: https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4c2.svg
+      img: https://cdn.imoscarz.eu.org/media/twemoji/1f4c2.svg
       url: /categories/
     - name: 标签
       icon: #
-      img: https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f516.svg
+      img: https://cdn.imoscarz.eu.org/media/twemoji/1f516.svg
       url: /tags/
     - name: 归档
       icon: #
-      img: https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4be.svg
+      img: https://cdn.imoscarz.eu.org/media/twemoji/1f4be.svg
       url: /archives/
     - name: 关于
       icon: #
-      img: https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/2139.svg
+      img: https://cdn.imoscarz.eu.org/media/twemoji/2139.svg
       url: /about/
     - name: 友链
       icon: #
-      img: https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4ce.svg
+      img: https://cdn.imoscarz.eu.org/media/twemoji/1f4ce.svg
       url: /friends/
 ############################### Cover ############################### > end
 
@@ -157,15 +157,15 @@ article:
       # 分享
       share:
         - id: qq
-          img:  volantis-static/media/org.volantis/logo/128/qq.png #  https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/qq.png
+          img: https://cdn.imoscarz.eu.org/media/logo/qq.png
         - id: qzone
-          img: volantis-static/media/org.volantis/logo/128/qzone.png #  https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/qzone.png
+          img: https://cdn.imoscarz.eu.org/media/logo/qzone.png
         - id: weibo
-          img: volantis-static/media/org.volantis/logo/128/weibo.png #  https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/weibo.png
+          img: https://cdn.imoscarz.eu.org/media/logo/weibo.png
         - id: qrcode
-          img: volantis-static/media/org.volantis/logo/128/wechat.png #  https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/wechat.png
-        - id: elegram
-          img: volantis-static/media/org.volantis/logo/128/telegram.png #  https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/telegram.png
+          img: https://cdn.imoscarz.eu.org/media/logo/wechat.png
+        - id: telegram
+          img: https://cdn.imoscarz.eu.org/media/logo/telegram.png
 ############################### Article Layout ############################### > end
 
 
@@ -404,27 +404,27 @@ plugins:
     duration: 10000       # Duration (ms)
     fade: 1500            # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-      - volantis-static/media/wallpaper/minimalist/2020/001.webp
-      - volantis-static/media/wallpaper/minimalist/2020/002.webp
-      - volantis-static/media/wallpaper/minimalist/2020/003.webp
-      - volantis-static/media/wallpaper/minimalist/2020/004.webp
-      - volantis-static/media/wallpaper/minimalist/2020/005.webp
-      - volantis-static/media/wallpaper/minimalist/2020/006.webp
-      - volantis-static/media/wallpaper/minimalist/2020/012.webp
-      - volantis-static/media/wallpaper/minimalist/2020/016.webp
-      - volantis-static/media/wallpaper/minimalist/2020/019.webp
-      - volantis-static/media/wallpaper/minimalist/2020/025.webp
-      - volantis-static/media/wallpaper/minimalist/2020/033.webp
-      - volantis-static/media/wallpaper/minimalist/2020/034.webp
-      - volantis-static/media/wallpaper/minimalist/2020/035.webp
-      - volantis-static/media/wallpaper/minimalist/2020/038.webp
-      - volantis-static/media/wallpaper/minimalist/2020/039.webp
-      - volantis-static/media/wallpaper/minimalist/2020/042.webp
-      - volantis-static/media/wallpaper/minimalist/2020/046.webp
-      - volantis-static/media/wallpaper/minimalist/2020/051.webp
-      - volantis-static/media/wallpaper/minimalist/2020/052.webp
-      - volantis-static/media/wallpaper/minimalist/2020/054.webp
-      - volantis-static/media/wallpaper/minimalist/2020/056.webp
+      - https://cdn.imoscarz.eu.org/media/wallpaper/001.webp
+      - https://cdn.imoscarz.eu.org/media/wallpaper/002.webp
+      - https://cdn.imoscarz.eu.org/media/wallpaper/003.webp
+      - https://cdn.imoscarz.eu.org/media/wallpaper/004.webp
+      - https://cdn.imoscarz.eu.org/media/wallpaper/005.webp
+      - https://cdn.imoscarz.eu.org/media/wallpaper/006.webp
+      - https://cdn.imoscarz.eu.org/media/wallpaper/012.webp
+      - https://cdn.imoscarz.eu.org/media/wallpaper/016.webp
+      - https://cdn.imoscarz.eu.org/media/wallpaper/019.webp
+      - https://cdn.imoscarz.eu.org/media/wallpaper/025.webp
+      - https://cdn.imoscarz.eu.org/media/wallpaper/033.webp
+      - https://cdn.imoscarz.eu.org/media/wallpaper/034.webp
+      - https://cdn.imoscarz.eu.org/media/wallpaper/035.webp
+      - https://cdn.imoscarz.eu.org/media/wallpaper/038.webp
+      - https://cdn.imoscarz.eu.org/media/wallpaper/039.webp
+      - https://cdn.imoscarz.eu.org/media/wallpaper/042.webp
+      - https://cdn.imoscarz.eu.org/media/wallpaper/046.webp
+      - https://cdn.imoscarz.eu.org/media/wallpaper/051.webp
+      - https://cdn.imoscarz.eu.org/media/wallpaper/052.webp
+      - https://cdn.imoscarz.eu.org/media/wallpaper/054.webp
+      - https://cdn.imoscarz.eu.org/media/wallpaper/056.webp
 
   # APlayer is only available in mainland China.
   # https://aplayer.js.org/#/zh-Hans/
