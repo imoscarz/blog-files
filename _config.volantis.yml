@@ -24,7 +24,7 @@ navbar:
       rows:
         - name: 关于作者
           url: https://imoscarz.eu.org/
-        - Github Repos
+        - name: Github Repos
           url: https://imoscarz.eu.org/github
         - name: Bangumi List
           url: https://imoscarz.eu.org/bangumi
