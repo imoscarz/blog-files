@@ -5,9 +5,9 @@ on:
     types: [opened, reopened]
 
 jobs:
-  build: # job1 id
+  check: # job1 id
     runs-on: ubuntu-latest # 运行环境为最新版 Ubuntu
-    name: A job to deploy blog.
+    name: A job to check pull request.
     steps:
       - name: Checkout # step1 获取源码
         uses: actions/checkout@v3
