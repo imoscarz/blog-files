@@ -1,0 +1,12 @@
+oldversion:
+  title: 过期的文档
+  message: 这份文档过于久远，部分内容可能已经过时，请选择性参考。
+  position: bottom # bottom (底部通知), right (右侧通知，会自动消失)
+  theme: warning # default, warning
+  cache: false # 是否记住选项（下次不再弹出）
+  buttons:
+    - title: 返回主页
+      url: /
+      dismiss: false # 点击了是否关闭底部横幅
+    - title: 关闭提醒
+      dismiss: true # 点击了是否关闭底部横幅

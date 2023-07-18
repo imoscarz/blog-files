@@ -16,7 +16,7 @@ favicon: "https://cdn.imoscarz.eu.org/favicon.ico"
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://imoscarz.eu.org
+url: https://blog.imoscarz.eu.org
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

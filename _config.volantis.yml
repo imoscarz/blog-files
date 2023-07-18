@@ -23,9 +23,11 @@ navbar:
       icon: fa-solid fa-info-circle
       rows:
         - name: 关于作者
-          url: /about/
+          url: https://imoscarz.eu.org/
+        - Github Repos
+          url: https://imoscarz.eu.org/github
         - name: Bangumi List
-          url: /about/bangumi/
+          url: https://imoscarz.eu.org/bangumi
     - name: 友链
       icon: fa-solid fa-link
       url: /friends/
@@ -65,7 +67,7 @@ cover:
     - name: 关于
       icon: #
       img: https://cdn.imoscarz.eu.org/media/twemoji/2139.svg
-      url: /about/
+      url: https://imoscarz.eu.org/
     - name: 友链
       icon: #
       img: https://cdn.imoscarz.eu.org/media/twemoji/1f4ce.svg
@@ -83,7 +85,7 @@ article:
   body:
     # 文章顶部信息
     # 从 meta_library 中取
-    top_meta: [author, category, date, counter] #启用评论数量需在此添加
+    top_meta: [author, category, date, wordcount, counter] #启用评论数量需在此添加
     # 文章底部信息
     # 从 meta_library 中取
     bottom_meta: [updated, tags, share]
@@ -150,7 +152,7 @@ article:
       author:
         avatar: https://cdn.imoscarz.eu.org/avatar.png
         name: imoscarz
-        url: /about/
+        url: https://imoscarz.eu.org/
       # 文章标签
       tags:
         icon: fa-solid fa-hashtag
@@ -289,7 +291,7 @@ sidebar:
 ############################### Site Footer ############################### > start
 site_footer:
   # layout of footer: [aplayer, social, license, info, copyright]
-  layout: [aplayer, social, license, info, copyright]
+  layout: [aplayer, social, license, source, analytics, copyright]
   social:
     - icon: fa-solid fa-rss
       url: /atom.xml
@@ -586,7 +588,7 @@ rightmenus:
       - {id: 'contributors', name: '分类', icon: 'fa-solid fa-folder-open', link: '/categories/', group: 'link'}
       - hr
       - {id: 'source_docs', name: '友链', icon: 'fa-solid fa-link', link: '/friends/', group: 'link'}
-      - {id: 'source_theme', name: '关于', icon: 'fa-solid fa-info-circle', link: '/about/', group: 'link'}
+      - {id: 'source_theme', name: '关于', icon: 'fa-solid fa-info-circle', link: 'https://imoscarz.eu.org/', group: 'link'}
     darkMode:
       - {id: 'darkMode', name: '暗黑模式', icon: 'fa-solid fa-moon', event: 'volantis.dark.toggle()', group: 'darkMode'}
 
