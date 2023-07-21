@@ -1,4 +1,4 @@
-name: auto deploy # workflow name
+name: pr check # workflow name
 
 on:
   pull_request:
