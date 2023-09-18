@@ -1,3 +1,4 @@
 [submodule "themes/volantis"]
 	path = themes/volantis
 	url = https://ghproxy.com/https://github.com/volantis-x/hexo-theme-volantis.git
+	branch = 6.0.0
